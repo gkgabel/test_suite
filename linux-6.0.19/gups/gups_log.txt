@@ -1,0 +1,4896 @@
+new test
+iter 1
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.285
+Gups:  0.032362
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+9883648
+0
+0
+0
+0
+9986048
+9986048
+9986048
+9986048
+9986048
+---------gups memory footprint in KB------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+33761788K
+0
+0
+0
+0
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 2
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.207
+Gups:  0.032402
+---------huge page volume in KB------------------
+0
+0
+0
+0
+9883648
+0
+0
+0
+0
+9986048
+9986048
+9986048
+9986048
+9986048
+0
+9990144
+9990144
+9990144
+9990144
+9990144
+---------gups memory footprint in KB------------
+0
+0
+0
+0
+33761788K
+0
+0
+0
+0
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 3
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.482
+Gups:  0.032261
+---------huge page volume in KB------------------
+0
+0
+0
+0
+9986048
+9986048
+9986048
+9986048
+9986048
+0
+9990144
+9990144
+9990144
+9990144
+9990144
+9992192
+9992192
+9992192
+9992192
+9992192
+---------gups memory footprint in KB------------
+0
+0
+0
+0
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 4
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.367
+Gups:  0.032320
+---------huge page volume in KB------------------
+9986048
+9986048
+9986048
+0
+9990144
+9990144
+9990144
+9990144
+9990144
+9992192
+9992192
+9992192
+9992192
+9992192
+0
+9992192
+9992192
+9992192
+9992192
+9992192
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 5
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.438
+Gups:  0.032283
+---------huge page volume in KB------------------
+9990144
+9990144
+9990144
+9990144
+9992192
+9992192
+9992192
+9992192
+9992192
+0
+9992192
+9992192
+9992192
+9992192
+9992192
+10008576
+10008576
+10008576
+10008576
+10008576
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 6
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.426
+Gups:  0.032290
+---------huge page volume in KB------------------
+9992192
+9992192
+9992192
+0
+9992192
+9992192
+9992192
+9992192
+9992192
+10008576
+10008576
+10008576
+10008576
+10008576
+0
+10010624
+10010624
+10010624
+10010624
+10010624
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 7
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.215
+Gups:  0.032397
+---------huge page volume in KB------------------
+9992192
+9992192
+9992192
+9992192
+10008576
+10008576
+10008576
+10008576
+10008576
+0
+10010624
+10010624
+10010624
+10010624
+10010624
+10016768
+10016768
+10016768
+10016768
+10016768
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 8
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.182
+Gups:  0.032414
+---------huge page volume in KB------------------
+10008576
+10008576
+10008576
+0
+10010624
+10010624
+10010624
+10010624
+10010624
+10016768
+10016768
+10016768
+10016768
+10016768
+0
+10020864
+10020864
+10020864
+10020864
+10020864
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 9
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    62.911
+Gups:  0.032554
+---------huge page volume in KB------------------
+10010624
+10010624
+10010624
+10010624
+10016768
+10016768
+10016768
+10016768
+10016768
+0
+10020864
+10020864
+10020864
+10020864
+10020864
+10020864
+10022912
+10022912
+10022912
+10022912
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 10
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.214
+Gups:  0.032398
+---------huge page volume in KB------------------
+10016768
+10016768
+10016768
+0
+10020864
+10020864
+10020864
+10020864
+10020864
+10020864
+10022912
+10022912
+10022912
+10022912
+0
+10020864
+10020864
+10020864
+10020864
+10020864
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 11
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.148
+Gups:  0.032432
+---------huge page volume in KB------------------
+10020864
+10020864
+10020864
+10020864
+10022912
+10022912
+10022912
+10022912
+0
+10020864
+10020864
+10020864
+10020864
+10020864
+0
+10022912
+10022912
+10022912
+10022912
+10022912
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 12
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.181
+Gups:  0.032415
+---------huge page volume in KB------------------
+10022912
+10022912
+10022912
+0
+10020864
+10020864
+10020864
+10020864
+10020864
+0
+10022912
+10022912
+10022912
+10022912
+10022912
+10024960
+10024960
+10024960
+10024960
+10024960
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 13
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.250
+Gups:  0.032379
+---------huge page volume in KB------------------
+10020864
+10020864
+10020864
+10020864
+0
+10022912
+10022912
+10022912
+10022912
+10022912
+10024960
+10024960
+10024960
+10024960
+10024960
+10024960
+10029056
+10029056
+10029056
+10029056
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 14
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.209
+Gups:  0.032401
+---------huge page volume in KB------------------
+10022912
+10022912
+10022912
+10022912
+10024960
+10024960
+10024960
+10024960
+10024960
+10024960
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 15
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    62.981
+Gups:  0.032518
+---------huge page volume in KB------------------
+10024960
+10024960
+10024960
+10024960
+10024960
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 16
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.220
+Gups:  0.032395
+---------huge page volume in KB------------------
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+0
+10029056
+10029056
+10029056
+10029056
+10029056
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 17
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    62.956
+Gups:  0.032531
+---------huge page volume in KB------------------
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+0
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 18
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.211
+Gups:  0.032400
+---------huge page volume in KB------------------
+10029056
+10029056
+10029056
+0
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+0
+10031104
+10031104
+10031104
+10031104
+10031104
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 19
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    62.967
+Gups:  0.032525
+---------huge page volume in KB------------------
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+10029056
+0
+10031104
+10031104
+10031104
+10031104
+10031104
+10029056
+10029056
+10029056
+10029056
+10029056
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 20
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    63.061
+Gups:  0.032477
+---------huge page volume in KB------------------
+10029056
+10029056
+10029056
+0
+10031104
+10031104
+10031104
+10031104
+10031104
+10029056
+10029056
+10029056
+10029056
+10029056
+0
+10029056
+10029056
+10029056
+10029056
+10029056
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+huge page disabled
+huge page disabled
+huge page disabled
+huge page disabled
+huge page disabled
+huge page disabled
+huge page disabled
+huge page disabled but 69 % frag
+huge page disabled but 69 % frag
+huge page disabled but 69 % frag
+huge page disabled but 69 % frag
+huge page disabled but 69 % frag
+new test
+iter 1
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    78.046
+Gups:  0.026241
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 2
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    78.121
+Gups:  0.026216
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+0
+0
+0
+0
+0
+0
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 3
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    78.226
+Gups:  0.026181
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 4
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    81.496
+Gups:  0.025130
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 5
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    78.096
+Gups:  0.026224
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 6
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.892
+Gups:  0.026293
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 7
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.955
+Gups:  0.026271
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 8
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    78.026
+Gups:  0.026248
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 9
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.913
+Gups:  0.026286
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 10
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.924
+Gups:  0.026282
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 11
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.975
+Gups:  0.026265
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 12
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.891
+Gups:  0.026293
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 13
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.665
+Gups:  0.026369
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 14
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.771
+Gups:  0.026334
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 15
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    84.214
+Gups:  0.024319
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 16
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.985
+Gups:  0.026261
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 17
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    78.025
+Gups:  0.026248
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 18
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.698
+Gups:  0.026358
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 19
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    77.820
+Gups:  0.026317
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 20
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    81.604
+Gups:  0.025097
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+new test
+iter 1
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    75.027
+Gups:  0.027297
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+0
+0
+0
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 2
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.863
+Gups:  0.027357
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 3
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.991
+Gups:  0.027310
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 4
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    75.422
+Gups:  0.027154
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 5
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    75.174
+Gups:  0.027243
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 6
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    75.091
+Gups:  0.027274
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 7
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.940
+Gups:  0.027329
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 8
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.881
+Gups:  0.027350
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 9
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.807
+Gups:  0.027377
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 10
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    81.103
+Gups:  0.025252
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 11
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.929
+Gups:  0.027332
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 12
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.880
+Gups:  0.027350
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 13
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.759
+Gups:  0.027395
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 14
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    75.042
+Gups:  0.027291
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 15
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.850
+Gups:  0.027361
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 16
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.728
+Gups:  0.027406
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 17
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.836
+Gups:  0.027366
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 18
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    75.072
+Gups:  0.027280
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 19
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    81.177
+Gups:  0.025229
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+iter 20
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    74.909
+Gups:  0.027340
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+207352K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+207352K
+----------------------------------------------
+new test
+iter 1
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    32.620
+Gups:  0.062784
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+14071808
+31057920
+31057920
+31057920
+31057920
+31057920
+31057920
+---------gups memory footprint in KB------------
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 2
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    31.658
+Gups:  0.064692
+---------huge page volume in KB------------------
+0
+0
+0
+0
+0
+0
+14071808
+31057920
+31057920
+31057920
+31057920
+31057920
+31057920
+638976
+31508480
+31508480
+31508480
+31508480
+31508480
+31508480
+---------gups memory footprint in KB------------
+0
+0
+0
+0
+0
+0
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 3
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    31.485
+Gups:  0.065048
+---------huge page volume in KB------------------
+31057920
+31057920
+31057920
+31057920
+31057920
+31057920
+638976
+31508480
+31508480
+31508480
+31508480
+31508480
+31508480
+3788800
+31952896
+31952896
+31952896
+31952896
+31952896
+31952896
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 4
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.927
+Gups:  0.066221
+---------huge page volume in KB------------------
+31508480
+31508480
+31508480
+31508480
+31508480
+31508480
+3788800
+31952896
+31952896
+31952896
+31952896
+31952896
+31952896
+10864640
+32577536
+32577536
+32577536
+32577536
+32577536
+32577536
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 5
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.875
+Gups:  0.066333
+---------huge page volume in KB------------------
+31952896
+31952896
+31952896
+31952896
+31952896
+31952896
+10864640
+32577536
+32577536
+32577536
+32577536
+32577536
+32577536
+22738944
+32792576
+32792576
+32792576
+32792576
+32792576
+32792576
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 6
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.841
+Gups:  0.066405
+---------huge page volume in KB------------------
+10864640
+32577536
+32577536
+32577536
+32577536
+32577536
+32577536
+22738944
+32792576
+32792576
+32792576
+32792576
+32792576
+32792576
+32833536
+32833536
+32833536
+32833536
+32833536
+32833536
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 7
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.521
+Gups:  0.067100
+---------huge page volume in KB------------------
+22738944
+32792576
+32792576
+32792576
+32792576
+32792576
+32792576
+32833536
+32833536
+32833536
+32833536
+32833536
+32833536
+6445056
+32862208
+32862208
+32862208
+32862208
+32862208
+32862208
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 8
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.885
+Gups:  0.066311
+---------huge page volume in KB------------------
+32833536
+32833536
+32833536
+32833536
+32833536
+32833536
+6445056
+32862208
+32862208
+32862208
+32862208
+32862208
+32862208
+24694784
+32880640
+32880640
+32880640
+32880640
+32880640
+0
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+204612K
+----------------------------------------------
+iter 9
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    43.514
+Gups:  0.047065
+---------huge page volume in KB------------------
+32862208
+32862208
+32862208
+32862208
+32862208
+24694784
+32880640
+32880640
+32880640
+32880640
+32880640
+0
+32925696
+32925696
+32925696
+32925696
+32925696
+32925696
+32925696
+32925696
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+204612K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 10
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.727
+Gups:  0.066652
+---------huge page volume in KB------------------
+32880640
+32880640
+32880640
+32880640
+0
+32925696
+32925696
+32925696
+32925696
+32925696
+32925696
+32925696
+32925696
+0
+32931840
+32931840
+32931840
+32931840
+32931840
+32931840
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+204612K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+206848K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 11
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.680
+Gups:  0.066755
+---------huge page volume in KB------------------
+32925696
+32925696
+32925696
+32925696
+32925696
+32925696
+0
+32931840
+32931840
+32931840
+32931840
+32931840
+32931840
+17188864
+32944128
+32944128
+32944128
+32944128
+32944128
+32944128
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+206848K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 12
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.681
+Gups:  0.066751
+---------huge page volume in KB------------------
+0
+32931840
+32931840
+32931840
+32931840
+32931840
+32931840
+17188864
+32944128
+32944128
+32944128
+32944128
+32944128
+32944128
+32995328
+32995328
+32995328
+32995328
+32995328
+32995328
+---------gups memory footprint in KB------------
+206848K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 13
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.682
+Gups:  0.066749
+---------huge page volume in KB------------------
+17188864
+32944128
+32944128
+32944128
+32944128
+32944128
+32944128
+32995328
+32995328
+32995328
+32995328
+32995328
+32995328
+11898880
+32993280
+32993280
+32993280
+32993280
+32993280
+32993280
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 14
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.553
+Gups:  0.067031
+---------huge page volume in KB------------------
+32944128
+32995328
+32995328
+32995328
+32995328
+32995328
+32995328
+11898880
+32993280
+32993280
+32993280
+32993280
+32993280
+32993280
+32493568
+33009664
+33009664
+33009664
+33009664
+33009664
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 15
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.629
+Gups:  0.066865
+---------huge page volume in KB------------------
+11898880
+32993280
+32993280
+32993280
+32993280
+32993280
+32993280
+32493568
+33009664
+33009664
+33009664
+33009664
+33009664
+10110976
+33021952
+33021952
+33021952
+33021952
+33021952
+33021952
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 16
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.579
+Gups:  0.066974
+---------huge page volume in KB------------------
+32993280
+32493568
+33009664
+33009664
+33009664
+33009664
+33009664
+10110976
+33021952
+33021952
+33021952
+33021952
+33021952
+33021952
+32675840
+33013760
+33013760
+33013760
+33013760
+33013760
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 17
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.590
+Gups:  0.066951
+---------huge page volume in KB------------------
+10110976
+33021952
+33021952
+33021952
+33021952
+33021952
+33021952
+32675840
+33013760
+33013760
+33013760
+33013760
+33013760
+11730944
+0
+33001472
+33001472
+33001472
+33001472
+33001472
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 18
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.709
+Gups:  0.066690
+---------huge page volume in KB------------------
+33021952
+32675840
+33013760
+33013760
+33013760
+33013760
+33013760
+11730944
+0
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 19
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.518
+Gups:  0.067108
+---------huge page volume in KB------------------
+33013760
+11730944
+0
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+17991680
+33003520
+33003520
+33003520
+33003520
+33003520
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
+iter 20
+---------------------------
+4294967296 ----
+local =4294967296||=
+local =|4294967296||=
+log table =256 
+chunk big=131072 
+local =4294967296
+local =0l
+Log table 34359738368 data table 131072 
+Number of procs: 1
+Vector size: 4294967296
+Max datums during comm: 0
+Max datums after comm: 1024
+Excess datums (frac): 0 (0)
+Bad locality count: 0
+Update time (secs):    30.493
+Gups:  0.067163
+---------huge page volume in KB------------------
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+33001472
+17991680
+33003520
+33003520
+33003520
+33003520
+33003520
+649216
+33011712
+33011712
+33011712
+33011712
+33011712
+33011712
+---------gups memory footprint in KB------------
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+33761788K
+----------------------------------------------
